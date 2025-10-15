@@ -194,7 +194,7 @@ Comentário rápido: Ambos os modelos tiveram desempenho semelhante na tarefa de
 
 ## Link do vídeo de demonstração
 
-Cole aqui o link do vídeo no YouTube (modo não listado) após fazer o upload: `<COLE_AQUI_LINK_DO_VIDEO>`
+Cole aqui o link do vídeo no YouTube (modo não listado) após fazer o upload: `https://youtu.be/Mvm52ORuaTw`
 
 ---
 
